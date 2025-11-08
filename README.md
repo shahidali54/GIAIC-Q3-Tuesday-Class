@@ -67,6 +67,8 @@ If you found this repository helpful, consider giving it a star — it motivates
 
 📬 Connect with Me
 
+Portfolio: https://www.shahidali.xyz
+
 GitHub: https://github.com/shahidali54
 
 LinkedIn: www.linkedin.com/in/shahid-ali-64676a2ba
